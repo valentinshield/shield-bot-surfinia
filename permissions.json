@@ -1,0 +1,13 @@
+{
+	"ADMINISTRATOR": "Administrateur",
+	"MANAGE_GUILD": "Gérer le serveur ",
+	"MANAGE_ROLES": "Gérer les Roles",
+	"MANAGE_CHANNELS": "Gérer les salons",
+	"KICK_MEMBERS": "Kick Membres",
+	"BAN_MEMBERS": "Ban Membres",
+	"MANAGE_NICKNAMES": "Gérer les Pseudo",
+	"MANAGE_EMOJIS": "Gérer les emojis",
+	"MANAGE_WEBHOOKS": "Gérer les whebooks",
+	"MANAGE_MESSAGES": "Gérer les messages",
+	"MENTION_EVERYONE": "Mention @everyone, @here"
+}	
